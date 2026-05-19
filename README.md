@@ -62,7 +62,8 @@ Which why I started testing out Linux, installed a couple distro on vmware, and 
 ---
 ## Socials
 [Youtube](https://www.youtube.com/@sudo_CoolGuy)
-[Discord](https://www.discord.com/users/1419204453378162709)
+
+Discord Username: bob_1248912
 ---
 
 All righty!!! Now You know me!!!
