@@ -64,6 +64,7 @@ Which why I started testing out Linux, installed a couple distro on vmware, and 
 [Youtube](https://www.youtube.com/@sudo_CoolGuy)
 
 Discord Username: bob_1248912
+
 ---
 
 All righty!!! Now You know me!!!
