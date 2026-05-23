@@ -3,7 +3,7 @@
 ---
 ## Who am I?
 
-Hey there! I am CoolGuy158! Im a python developer who loves opensource!!! I have a huge interest in programming, I don't have one goal e.g. (Ai dev, Os dev, etc) rather I want to learn as much as I can not just so I can act cool and stuff, but also for the thrill and fun!
+Hey there! I am CoolGuy158! Im a 13 yo python developer who loves opensource!!! I have a huge interest in programming, I don't have one goal e.g. (Ai dev, Os dev, etc) rather I want to learn as much as I can not just so I can act cool and stuff, but also for the thrill and fun!
 
 Here are my interests outside of programming:
 - Gaming (Minecraft, Geometry dash, and more!)
