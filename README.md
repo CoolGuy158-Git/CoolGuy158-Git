@@ -30,6 +30,7 @@ Not really into gamedev (Espicially cuz I literally don't know how to use any ga
 ## What are the languages/markup/command lines you know?
 
 - Python
+- Arduino C++
 - Scratch
 - HTML
 - CSS
